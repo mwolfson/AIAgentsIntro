@@ -18,10 +18,10 @@ In this presentation, I'll introduce you to the fascinating world of AI agents, 
 
 **Attendees will gain insights into:**
 
--Fundamental concepts and architecture of AI agents
-Advantages and challenges of deploying AI agents in real-world applications
--Best practices for designing and developing effective AI agent systems
--Understanding of how to get started writing your own agents using Python and LangChain.
+- Fundamental concepts and architecture of AI agents
+- Advantages and challenges of deploying AI agents in real-world applications
+- Best practices for designing and developing effective AI agent systems
+- Understanding of how to get started writing your own agents using Python and LangChain.
 
 Whether you're an AI enthusiast or a seasoned practitioner, this presentation will equip you with the knowledge and inspiration to embrace the power of AI agents and drive innovation in your field.
 
