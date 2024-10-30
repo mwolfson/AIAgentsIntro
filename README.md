@@ -27,11 +27,11 @@ Whether you're an AI enthusiast or a seasoned practitioner, this presentation wi
 
 ### Presentation Dates
 
-[Phoenix AI Developers | Phoenix, AZ | 8/22/24](https://www.meetup.com/phx-ai-devs/events/301784443)
+[Phoenix AI Developers | Phoenix, AZ | 8/22/24](https://www.meetup.com/phx-ai-devs/events/301784443) <br>
 [Annopolis DevFest | Annopolis, MD (Remote) | 10/28/24](https://gdg.community.dev/events/details/google-gdg-annapolis-presents-google-devfest-on-ai/)
 
 ### References
 
-[AutoGen](https://microsoft.github.io/autogen/)
-[Safety Gear Detection System for Construction Workers](https://insiders.intel.com/projects/safety-gear-detection-system-for-construction-workers)
+[AutoGen](https://microsoft.github.io/autogen/) <br>
+[Safety Gear Detection System for Construction Workers](https://insiders.intel.com/projects/safety-gear-detection-system-for-construction-workers) <br>
 [DeepLearning.ai - Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
